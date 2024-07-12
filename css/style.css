@@ -1,0 +1,81 @@
+*{
+    margin: 0px;
+    padding:0px;
+    
+}
+img{
+    height: 700px;
+    width:565px;
+    margin: 20px 0px 0px 20px;
+}
+.div1{
+    z-index: +1;
+    position: relative;
+    bottom: 39rem;
+}
+.div1 p{
+    width:-10px;
+    height:50px;
+    font-family: cursive;
+    color:rgb(255, 183, 0);
+    font-size:large;
+    margin: 0px 0px 0px 65px;
+}
+.div1 h1{
+    width:-1px;
+    height:50px;
+    font-family: cursive;
+    color:black;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    margin: 150px 0px 0px 0px;
+    font-size:50px;
+}
+input{
+    margin: 30px 50px 0px 0px;
+    width: 50px;
+    height: 50px;
+    margin-left: 165px;
+   
+}
+h5{
+    text-align: center;
+    color: gray;
+    font-size:medium;
+}
+h6{
+    margin-left: 250px;
+    color: gray;
+    font-size:10px;
+    margin: 15px 0px 0px 365px ;
+    width: 110px;
+  
+}
+button{
+    background-color: skyblue;
+    margin: 20px 0px 0px 265px;
+}
+hr{
+    margin-left: 215px;
+    width:185px;
+}
+h4{
+    margin: -34px 0px 0px 300px;
+    margin-right: 20px;
+    height: 20px;
+}
+
+.col-6 i{
+    font-size: 50px;
+    /* border:1px solid grey; */
+    margin-left: 250px;
+    margin-top: 20px;
+    color: rgb(112, 112, 212);
+   
+}
+.row .para2{
+    margin-left: 200px;
+    margin-top: 10px;
+}
